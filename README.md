@@ -1,8 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Seth! <br/><a href="https://github.com/funkim">Web Developer</a>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Funkim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/seth-case/
 
 <!--
-**funkim/funkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
