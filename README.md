@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seth! <br/><a href="https://github.com/funkim">Web Dev</a>
+<h1>Hi, I'm Seth! <br/>
 
 
 <h2> 🤳 Connect with me:</h2>
