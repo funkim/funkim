@@ -3,7 +3,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Funkim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Funkim | LinkedIn" width="60px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
 
 
 
