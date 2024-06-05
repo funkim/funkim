@@ -1,9 +1,12 @@
 <h1>Hi, I'm Seth! <br/>
+<h2 align="center"> My Skills:<br/>
+<br/>
+  
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,htmx,react,vitest,webpack,linux,vim,vscode)](https://skillicons.dev)
 
+<h2 align= "left"> 🤳 Connect with me:</h2>
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Funkim | LinkedIn" width="60px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+[<img align="center" alt="Funkim LinkedIn" width="60px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
 
 
