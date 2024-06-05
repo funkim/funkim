@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seth! <br/>
+<h1 align="center">Hi, I'm Seth! <br/>
 <h2 align="center"> My Skills:<br/>
 <br/>
   
