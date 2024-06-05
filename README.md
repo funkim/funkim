@@ -2,7 +2,9 @@
 <h2 align="center"> My Skills:<br/>
 <br/>
   
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,htmx,react,vitest,webpack,linux,vim,vscode)](https://skillicons.dev)
+[![Primary](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev) <br/>
+<br/>
+[![Secondary](https://skillicons.dev/icons?i=git,htmx,vitest,webpack,linux,vim,vscode)](https://skillicons.dev)
 
 <h2 align= "left"> 🤳 Connect with me:</h2>
 
