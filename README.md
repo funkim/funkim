@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Seth! <br/>
-<h2 align="center"> My Skills:<br/>
+<h2 align="center"> Languages and Skills:<br/>
 <br/>
   
 [![Primary](https://skillicons.dev/icons?i=html,css,js,ts,react,next)](https://skillicons.dev) <br/>
