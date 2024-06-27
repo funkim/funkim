@@ -2,7 +2,7 @@
 <h2 align="center"> Languages and Tools:<br/>
 <br/>
   
-[![Primary](https://skillicons.dev/icons?i=html,css,js,ts,react,next)](https://skillicons.dev) <br/>
+[![Primary](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind)](https://skillicons.dev) <br/>
 <br/>
 [![Secondary](https://skillicons.dev/icons?i=git,htmx,vitest,webpack,linux,vim,vscode,figma)](https://skillicons.dev)
 
