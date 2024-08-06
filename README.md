@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Seth! <br/>
 <h2 align="center"> Languages and Tools:<br/>
 <br/>
   
